@@ -1,2 +1,2 @@
-# yatube_project
+# Yatube
 Backend with Django case study
